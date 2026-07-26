@@ -31,7 +31,7 @@ Ran `.venv/bin/pytest tests/unit/test_llm_provider_contract.py -v` → 27 passed
 
 **PLAN.md link:** https://github.com/AddreeBarua/pathreview/blob/test/108-mock-llm-provider-contract/PLAN.md
 
-**Walkthrough video (recommended):** YOUR-LOOM-LINK-HERE
+**Walkthrough video (recommended):** https://www.loom.com/share/d2fe927f53f343ee946fa1b8d58a0ed5
 
 **Blockers or open questions:**
 None.
